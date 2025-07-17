@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FruitsWebsite.aspx.cs" Inherits="WebApplication4.ListBoxImageDemo" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FruitsWebsite.aspx.cs" Inherits="WebApplication4.FruitsWebsite" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">

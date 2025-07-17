@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class ListBoxImageDemo
+    public partial class FruitsWebsite
     {
 
         /// <summary>
